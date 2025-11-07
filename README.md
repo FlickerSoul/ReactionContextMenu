@@ -1,6 +1,8 @@
 # ReactionContextMenu
 
-A SwiftUI library that provides an interactive context menu with emoji reactions, similar to messaging apps like iMessage and Telegram. Features smooth animations, haptic feedback, and customizable options.
+A SwiftUI library that provides an interactive context menu with emoji reactions, similar to messaging apps like iMessage and WhatsApp. Features smooth animations, haptic feedback, and customizable options. This serves as a example of how to implement custom context menu using only SwiftUI.
+
+https://github.com/user-attachments/assets/37499a46-aeed-434d-a9db-f556c0995e4c
 
 ## Features
 
